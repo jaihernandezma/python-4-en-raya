@@ -1,0 +1,21 @@
+===========================================
+
+=== Estadísticas de la sesión del juego ===
+Nombre del jugador 1: Blue (X)
+Nombre del jugador 2: Esteban (0)
+Numero de partidas jugadas: 1
+Numero de victorias de Blue (X): 1
+Numero de victorias de Esteban (0): 0
+Numero de empates: 0
+
+=== Tablero al final de la partida #1 ===
+     + 1 2 3 4 +
+     + - - - - +
+     + X X ○ ○ +
+     + 0 X 0 ○ +
+     + 0 X X 0 +
+     + 0 X X 0 +
+     + - - - - +
+Blue (X) ha ganado la partida (˶ˆᗜˆ˵)
+
+===========================================
